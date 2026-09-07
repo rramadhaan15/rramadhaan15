@@ -16,19 +16,21 @@ Here are some ideas to get you started:
 -->
 
 
+<h2 align="center">💣 My Contribution Battle 💣</h2>
+
 <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-checkerboard-dark.svg"
+      srcset="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-random-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-checkerboard.svg"
+      srcset="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-random.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-checkerboard.svg"
-      alt="Bomberman checkerboard"
+      src="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-random.svg"
+      alt="Random Bomberman contribution graph"
       width="100%"
     />
   </picture>
