@@ -1,4 +1,4 @@
-## Hello, my name is Rizki Ramadhan.  👋
+## Hello, my name is Rizki Ramadhan👋
 
 <!--
 **rramadhaan15/rramadhaan15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
