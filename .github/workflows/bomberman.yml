@@ -1,10 +1,10 @@
-name: Generate Bomberman Contribution Graph
+name: Generate Full Bomberman Graph
 
 on:
+  workflow_dispatch:
+
   schedule:
     - cron: "0 0 * * *"
-
-  workflow_dispatch:
 
   push:
     branches:
@@ -19,12 +19,39 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: Generate Bomberman animation
-        uses: abozanona/pacman-contribution-graph@main
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          games: "bomberman"
-          hide_month_labels: "true"
+          node-version: "20"
+
+      - name: Install generator
+        run: npm install --global pacman-contribution-graph
+
+      - name: Create output folder
+        run: mkdir -p dist
+
+      - name: Generate light Bomberman
+        run: >
+          pacman-contribution-graph
+          --game bomberman
+          --username rramadhaan15
+          --platform scenario
+          --scenario full
+          --gameTheme github
+          --output dist/bomberman-contribution-graph.svg
+
+      - name: Generate dark Bomberman
+        run: >
+          pacman-contribution-graph
+          --game bomberman
+          --username rramadhaan15
+          --platform scenario
+          --scenario full
+          --gameTheme github-dark
+          --output dist/bomberman-contribution-graph-dark.svg
 
       - name: Save animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
