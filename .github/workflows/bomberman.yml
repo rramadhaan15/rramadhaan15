@@ -39,7 +39,7 @@ jobs:
           --game bomberman
           --username rramadhaan15
           --platform scenario
-          --scenario full
+          --scenario checkerboard
           --gameTheme github
           --output dist/bomberman-contribution-graph.svg
 
@@ -49,7 +49,7 @@ jobs:
           --game bomberman
           --username rramadhaan15
           --platform scenario
-          --scenario full
+          --scenario checkerboard
           --gameTheme github-dark
           --output dist/bomberman-contribution-graph-dark.svg
 
