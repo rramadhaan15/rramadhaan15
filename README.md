@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<h2 align="center">💣 My Contribution Battle 💣</h2>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/rramadhaan15/rramadhaan15/output/bomberman-contribution-graph.svg"
+      alt="Bomberman contribution graph"
+      width="100%"
+    />
+  </picture>
+</p>
