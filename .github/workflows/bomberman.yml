@@ -33,7 +33,7 @@ jobs:
       - name: Create output folder
         run: mkdir -p dist
 
-      - name: Generate light Bomberman
+            - name: Generate light Bomberman
         run: >
           pacman-contribution-graph
           --game bomberman
@@ -41,7 +41,7 @@ jobs:
           --platform scenario
           --scenario checkerboard
           --gameTheme github
-          --output dist/bomberman-contribution-graph.svg
+          --output dist/bomberman-checkerboard.svg
 
       - name: Generate dark Bomberman
         run: >
@@ -51,7 +51,7 @@ jobs:
           --platform scenario
           --scenario checkerboard
           --gameTheme github-dark
-          --output dist/bomberman-contribution-graph-dark.svg
+          --output dist/bomberman-checkerboard-dark.svg
 
       - name: Save animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
