@@ -1,4 +1,4 @@
-name: Generate Checkerboard Bomberman Graph
+name: Generate Random Bomberman Graph
 
 on:
   workflow_dispatch:
@@ -29,25 +29,25 @@ jobs:
       - name: Create output folder
         run: mkdir -p dist
 
-      - name: Generate light Bomberman
+      - name: Generate light random Bomberman
         run: >
           pacman-contribution-graph
           --game bomberman
           --username rramadhaan15
           --platform scenario
-          --scenario checkerboard
+          --scenario random
           --gameTheme github
-          --output dist/bomberman-checkerboard.svg
+          --output dist/bomberman-random.svg
 
-      - name: Generate dark Bomberman
+      - name: Generate dark random Bomberman
         run: >
           pacman-contribution-graph
           --game bomberman
           --username rramadhaan15
           --platform scenario
-          --scenario checkerboard
+          --scenario random
           --gameTheme github-dark
-          --output dist/bomberman-checkerboard-dark.svg
+          --output dist/bomberman-random-dark.svg
 
       - name: Save animation to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
