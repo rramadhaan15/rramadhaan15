@@ -75,6 +75,8 @@ I am open to learning together, exchanging ideas, and collaborating on interesti
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Bash](https://img.shields.io/badge/Bash-0F172A?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
 ![Java](https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Kotlin](https://img.shields.io/badge/Kotlin-0F172A?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![React](https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
