@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email" />
 </a>
   <a href="https://www.linkedin.com/in/rizki-ramadhan-a2888031b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn" />
-  </a>
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
+</a>
 
 </div>
 
@@ -51,7 +51,7 @@ I am open to learning together, exchanging ideas, and collaborating on interesti
   **Have an idea or want to collaborate? Let's talk.**
 
   [![Send Email](https://img.shields.io/badge/Send%20me%20an%20email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A)](https://mail.google.com/mail/?view=cm&fs=1&to=rizkiramadhan2175%40gmail.com)
-  [![Connect on LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-38BDF8?style=for-the-badge&logo=linkedin&logoColor=0F172A)](https://www.linkedin.com/in/rizki-ramadhan-a2888031b/)
+  [![Connect on LinkedIn](https://custom-icon-badges.demolab.com/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/rizki-ramadhan-a2888031b/)
 
   <br />
 
