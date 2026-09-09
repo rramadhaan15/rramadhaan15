@@ -63,8 +63,10 @@ I am open to learning together, exchanging ideas, and collaborating on interesti
 
 ![HTML](https://img.shields.io/badge/HTML5-0F172A?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS3-0F172A?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Node.js](https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0F172A?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 ![Go](https://img.shields.io/badge/Go-0F172A?style=for-the-badge&logo=go&logoColor=00ADD8)
 ![PHP](https://img.shields.io/badge/PHP-0F172A?style=for-the-badge&logo=php&logoColor=777BB4)
 ![C](https://img.shields.io/badge/C-0F172A?style=for-the-badge&logo=c&logoColor=A8B9CC)
@@ -80,6 +82,11 @@ I am open to learning together, exchanging ideas, and collaborating on interesti
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=557C94)
+![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-0F172A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 </div>
 
