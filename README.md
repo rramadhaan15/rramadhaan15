@@ -19,9 +19,7 @@
 
 ## About Me
 
-I'm Rizki Ramadhan, a technology enthusiast from Indonesia currently pursuing a degree in Information Systems at UPN "Veteran" Jakarta. I have a strong interest in Web Development, Cybersecurity, and Business Intelligence.
-
-I'm passionate about understanding how web applications are built, how digital systems can be kept secure, and how raw data can be transformed into meaningful insights that support better decision-making. I'm continuously sharpening these skills through hands-on learning and real-world projects.
+I'm Rizki Ramadhan, a technology enthusiast from Indonesia currently pursuing a degree in Information Systems at UPN "Veteran" Jakarta. I have a strong interest in Web Development, Cybersecurity, and Business Intelligence. I'm passionate about understanding how web applications are built, how digital systems can be kept secure, and how raw data can be transformed into meaningful insights that support better decision-making. I'm continuously sharpening these skills through hands-on learning and real-world projects.
 
 ## Areas of Interest
 
