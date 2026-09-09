@@ -87,6 +87,7 @@ I am open to learning together, exchanging ideas, and collaborating on interesti
 ![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0F172A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![WSL](https://img.shields.io/badge/WSL-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
