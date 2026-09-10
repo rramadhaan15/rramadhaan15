@@ -83,11 +83,9 @@ I am open to learning together, exchanging ideas, and collaborating on interesti
 ![Power BI](https://img.shields.io/badge/Power%20BI-0F172A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Wireshark](https://img.shields.io/badge/Wireshark-0F172A?style=for-the-badge&logo=wireshark&logoColor=1679A7)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-0F172A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![WSL](https://img.shields.io/badge/WSL-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 </div>
 
