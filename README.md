@@ -48,6 +48,9 @@ I am open to learning together, exchanging ideas, and collaborating on interesti
 
   **Have an idea or want to collaborate? Let's talk.**
 
+  [![Send Email](https://img.shields.io/badge/Send%20me%20an%20email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A)](https://mail.google.com/mail/?view=cm&fs=1&to=rizkiramadhan2175%40gmail.com)
+  [![Connect on LinkedIn](https://custom-icon-badges.demolab.com/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/rizki-ramadhan-a2888031b/)
+
   <br />
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=110&section=footer" alt="Footer" />
