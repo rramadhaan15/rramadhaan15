@@ -8,13 +8,6 @@
 
   <br />
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=rizkiramadhan2175@gmail.com">
-  <img src="https://img.shields.io/badge/Email-38BDF8?style=for-the-badge&logo=gmail&logoColor=0F172A" alt="Email" />
-</a>
-  <a href="https://www.linkedin.com/in/rizki-ramadhan-a2888031b/">
-  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" />
-</a>
-
 </div>
 
 ## About Me
