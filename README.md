@@ -3,7 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:06B6D4&height=190&section=header&text=Rizki%20Ramadhan&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Building%20secure,%20useful,%20and%20data-driven%20digital%20experiences&descAlignY=58&descSize=16" alt="Rizki Ramadhan profile banner" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Web+Development;Cybersecurity;Business+Intelligence;Learning%2C+building%2C+and+growing+every+day" alt="Typing animation showing Rizki's interests" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=680&lines=Web+Development;Cyber Security;Business+Intelligence;Learning%2C+building%2C+and+growing+every+day" alt="Typing animation showing Rizki's interests" />
   </a>
 
   <br />
