@@ -23,7 +23,7 @@ I'm Rizki Ramadhan, a technology enthusiast from Indonesia currently pursuing a 
       <p>Building functional, responsive, and user-friendly web experiences.</p>
     </td>
     <td width="33%" align="center">
-      <h3>🛡️ Cybersecurity</h3>
+      <h3>🛡️ Cyber Security</h3>
       <p>Understanding system security, identifying risks, and protecting digital assets.</p>
     </td>
     <td width="33%" align="center">
