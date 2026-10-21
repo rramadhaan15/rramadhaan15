@@ -74,9 +74,6 @@ I am open to learning together, exchanging ideas, and collaborating on interesti
 ![MySQL](https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Linux](https://img.shields.io/badge/Linux-0F172A?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-0F172A?style=for-the-badge&logo=kalilinux&logoColor=557C94)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-0F172A?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![Figma](https://img.shields.io/badge/Figma-0F172A?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 </div>
 
